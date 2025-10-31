@@ -1,0 +1,126 @@
+{
+  "routes": [
+    {
+      "legs": [
+        {
+          "steps": [
+            {
+              "navigationInstruction": {
+                "instructions": "มุ่งไปทางทิศเหนือ ไปตาม ซอย เกกีงาม 1 เข้าสู่ ซอย ฉลองกรุง 1/ถ. ฉลองกรุง 1"
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "navigationInstruction": {
+                "instructions": "เลี้ยวขวา เข้าสู่ ซอย ฉลองกรุง 1/ถ. ฉลองกรุง 1"
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "navigationInstruction": {
+                "instructions": "เลี้ยว ซ้าย หลังสี่แยก สถานีตำรวจชุมชน สจล. (ทางด้านขวา)"
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "navigationInstruction": {
+                "instructions": "เบี่ยงขวาเล็กน้อย เพื่อวิ่งบน ถ. ฉลองกรุง"
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "navigationInstruction": {
+                "instructions": "รถประจำทาง ไปยัง ปากน้ำ"
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "ตรงข้ามสถานีดับเพลิงสุวรรณภูมิ"
+                  },
+                  "departureStop": {
+                    "name": "สจล. (คณะวิทยาศาสตร์)"
+                  }
+                },
+                "transitLine": {
+                  "name": "3-25E EV (552 EV) : ปากน้ำ - นิคมอุตสาหกรรมลาดกระบัง (ทางด่วน)",
+                  "nameShort": "3-25E EV (552)",
+                  "vehicle": {
+                    "name": {
+                      "text": "รถประจำทาง"
+                    },
+                    "type": "BUS"
+                  }
+                }
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "navigationInstruction": {
+                "instructions": "รถประจำทาง ไปยัง รังสิต"
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "หมู่บ้านเปรมฤทัย 2"
+                  },
+                  "departureStop": {
+                    "name": "ตรงข้ามสถานีดับเพลิงสุวรรณภูมิ"
+                  }
+                },
+                "transitLine": {
+                  "name": "S2 EV (554 EV) : รังสิต - สนามบินสุวรรณภูมิ (ทางด่วน)",
+                  "nameShort": "S2 EV (554)",
+                  "vehicle": {
+                    "name": {
+                      "text": "รถประจำทาง"
+                    },
+                    "type": "BUS"
+                  }
+                }
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "navigationInstruction": {
+                "instructions": "รถประจำทาง ไปยัง หมอชิต 2"
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "ก่อนแยกลาดพร้าว 101"
+                  },
+                  "departureStop": {
+                    "name": "หมู่บ้านเปรมฤทัย 2"
+                  }
+                },
+                "transitLine": {
+                  "name": "96 REG : มีนบุรี - หมอชิต 2",
+                  "nameShort": "1-42 REG (96)",
+                  "vehicle": {
+                    "name": {
+                      "text": "รถประจำทาง"
+                    },
+                    "type": "BUS"
+                  }
+                }
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "navigationInstruction": {
+                "instructions": "มุ่งไปทางทิศตะวันตกเฉียงเหนือ ไปตาม ถ. ลาดพร้าว เข้าสู่ ซอย ลาดพร้าว 128/2"
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "navigationInstruction": {
+                "instructions": "เลี้ยวซ้าย เข้าสู่ ซอย ลาดพร้าว 128/2\nผ่านท็อปส์ เดลี่ สาขา ลาดพร้าวไดร์ฟอินน์ (ทางขวา)"
+              },
+              "travelMode": "WALK"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
