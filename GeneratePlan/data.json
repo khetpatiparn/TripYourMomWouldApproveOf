@@ -18,37 +18,37 @@
             },
             {
               "navigationInstruction": {
-                "instructions": "เลี้ยว ซ้าย หลังสี่แยก สถานีตำรวจชุมชน สจล. (ทางด้านขวา)"
+                "instructions": "เลี้ยวซ้าย"
               },
               "travelMode": "WALK"
             },
             {
               "navigationInstruction": {
-                "instructions": "เบี่ยงขวาเล็กน้อย เพื่อวิ่งบน ถ. ฉลองกรุง"
+                "instructions": "เลี้ยวซ้าย\nใช้บันได"
               },
               "travelMode": "WALK"
             },
             {
               "navigationInstruction": {
-                "instructions": "รถประจำทาง ไปยัง ปากน้ำ"
+                "instructions": "รถไฟ ไปยัง Bangkok"
               },
               "transitDetails": {
                 "stopDetails": {
                   "arrivalStop": {
-                    "name": "ตรงข้ามสถานีดับเพลิงสุวรรณภูมิ"
+                    "name": "Hua Mak"
                   },
                   "departureStop": {
-                    "name": "สจล. (คณะวิทยาศาสตร์)"
+                    "name": "พระจอมเกล้าลาดกระบัง"
                   }
                 },
                 "transitLine": {
-                  "name": "3-25E EV (552 EV) : ปากน้ำ - นิคมอุตสาหกรรมลาดกระบัง (ทางด่วน)",
-                  "nameShort": "3-25E EV (552)",
+                  "name": "Chachoengsao Junction - Bangkok",
+                  "nameShort": "368 (Comuter)",
                   "vehicle": {
                     "name": {
-                      "text": "รถประจำทาง"
+                      "text": "รถไฟ"
                     },
-                    "type": "BUS"
+                    "type": "HEAVY_RAIL"
                   }
                 }
               },
@@ -56,51 +56,42 @@
             },
             {
               "navigationInstruction": {
-                "instructions": "รถประจำทาง ไปยัง รังสิต"
+                "instructions": "มุ่งไปทางทิศ ตะวันออก ไปตาม ซ. ศรีนครินทร์ 12"
               },
-              "transitDetails": {
-                "stopDetails": {
-                  "arrivalStop": {
-                    "name": "หมู่บ้านเปรมฤทัย 2"
-                  },
-                  "departureStop": {
-                    "name": "ตรงข้ามสถานีดับเพลิงสุวรรณภูมิ"
-                  }
-                },
-                "transitLine": {
-                  "name": "S2 EV (554 EV) : รังสิต - สนามบินสุวรรณภูมิ (ทางด่วน)",
-                  "nameShort": "S2 EV (554)",
-                  "vehicle": {
-                    "name": {
-                      "text": "รถประจำทาง"
-                    },
-                    "type": "BUS"
-                  }
-                }
-              },
-              "travelMode": "TRANSIT"
+              "travelMode": "WALK"
             },
             {
               "navigationInstruction": {
-                "instructions": "รถประจำทาง ไปยัง หมอชิต 2"
+                "instructions": "เบี่ยงขวาเล็กน้อย เพื่อวิ่งบน ซ. ศรีนครินทร์ 12"
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "navigationInstruction": {
+                "instructions": "เลี้ยวขวา เข้าสู่ ถ. ศรีนครินทร์"
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "navigationInstruction": {
+                "instructions": "รางเดี่ยว ไปยัง ลาดพร้าว"
               },
               "transitDetails": {
                 "stopDetails": {
                   "arrivalStop": {
-                    "name": "ก่อนแยกลาดพร้าว 101"
+                    "name": "ลาดพร้าว 101"
                   },
                   "departureStop": {
-                    "name": "หมู่บ้านเปรมฤทัย 2"
+                    "name": "หัวหมาก"
                   }
                 },
                 "transitLine": {
-                  "name": "96 REG : มีนบุรี - หมอชิต 2",
-                  "nameShort": "1-42 REG (96)",
+                  "name": "รถไฟฟ้าสายสีเหลือง",
                   "vehicle": {
                     "name": {
-                      "text": "รถประจำทาง"
+                      "text": "รางเดี่ยว"
                     },
-                    "type": "BUS"
+                    "type": "MONORAIL"
                   }
                 }
               },
@@ -120,7 +111,10 @@
             }
           ]
         }
-      ]
+      ],
+      "localizedValues": {
+        "transitFare": {}
+      }
     }
   ]
 }

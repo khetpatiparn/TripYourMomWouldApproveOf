@@ -1,0 +1,750 @@
+[
+  {
+    "originIndex": 0,
+    "destinationIndex": 4,
+    "status": {
+      "code": 5,
+      "message": "Address not found."
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 19,
+    "status": {
+      "code": 5,
+      "message": "Address not found."
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 33,
+    "status": {},
+    "condition": "ROUTE_NOT_FOUND"
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 16,
+    "status": {},
+    "condition": "ROUTE_NOT_FOUND"
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 2,
+    "status": {},
+    "distanceMeters": 63197,
+    "duration": "11994s",
+    "staticDuration": "11994s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "63.2 กม."
+      },
+      "duration": {
+        "text": "3 ชั่วโมง 20 นาที"
+      },
+      "staticDuration": {
+        "text": "3 ชั่วโมง 20 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 20,
+    "status": {},
+    "distanceMeters": 36352,
+    "duration": "7414s",
+    "staticDuration": "7414s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "36.4 กม."
+      },
+      "duration": {
+        "text": "2 ชั่วโมง 4 นาที"
+      },
+      "staticDuration": {
+        "text": "2 ชั่วโมง 4 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 0,
+    "status": {},
+    "distanceMeters": 32035,
+    "duration": "4289s",
+    "staticDuration": "4289s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "32.0 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 11 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 11 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 1,
+    "status": {},
+    "distanceMeters": 30906,
+    "duration": "7331s",
+    "staticDuration": "7331s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "30.9 กม."
+      },
+      "duration": {
+        "text": "2 ชั่วโมง 2 นาที"
+      },
+      "staticDuration": {
+        "text": "2 ชั่วโมง 2 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 12,
+    "status": {},
+    "distanceMeters": 54228,
+    "duration": "9747s",
+    "staticDuration": "9747s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "54.2 กม."
+      },
+      "duration": {
+        "text": "2 ชั่วโมง 42 นาที"
+      },
+      "staticDuration": {
+        "text": "2 ชั่วโมง 42 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 13,
+    "status": {},
+    "distanceMeters": 28514,
+    "duration": "5993s",
+    "staticDuration": "5993s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "28.5 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 40 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 40 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 7,
+    "status": {},
+    "distanceMeters": 27806,
+    "duration": "6377s",
+    "staticDuration": "6377s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "27.8 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 46 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 46 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 29,
+    "status": {},
+    "distanceMeters": 37631,
+    "duration": "5270s",
+    "staticDuration": "5270s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "37.6 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 28 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 28 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 15,
+    "status": {},
+    "distanceMeters": 32952,
+    "duration": "6047s",
+    "staticDuration": "6047s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "33.0 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 41 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 41 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 5,
+    "status": {},
+    "distanceMeters": 37856,
+    "duration": "6948s",
+    "staticDuration": "6948s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "37.9 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 56 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 56 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 31,
+    "status": {},
+    "distanceMeters": 25694,
+    "duration": "3831s",
+    "staticDuration": "3831s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "25.7 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 4 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 4 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 8,
+    "status": {},
+    "distanceMeters": 27765,
+    "duration": "5013s",
+    "staticDuration": "5013s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "27.8 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 24 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 24 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 9,
+    "status": {},
+    "distanceMeters": 21382,
+    "duration": "3330s",
+    "staticDuration": "3330s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "21.4 กม."
+      },
+      "duration": {
+        "text": "56 นาที"
+      },
+      "staticDuration": {
+        "text": "56 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 17,
+    "status": {},
+    "distanceMeters": 27222,
+    "duration": "5261s",
+    "staticDuration": "5261s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "27.2 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 28 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 28 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 18,
+    "status": {},
+    "distanceMeters": 27423,
+    "duration": "5134s",
+    "staticDuration": "5134s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "27.4 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 26 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 26 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 28,
+    "status": {},
+    "distanceMeters": 38108,
+    "duration": "7140s",
+    "staticDuration": "7140s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "38.1 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 59 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 59 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 27,
+    "status": {},
+    "distanceMeters": 33529,
+    "duration": "6528s",
+    "staticDuration": "6528s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "33.5 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 49 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 49 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 23,
+    "status": {},
+    "distanceMeters": 33621,
+    "duration": "6126s",
+    "staticDuration": "6126s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "33.6 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 42 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 42 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 3,
+    "status": {},
+    "distanceMeters": 37991,
+    "duration": "6303s",
+    "staticDuration": "6303s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "38.0 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 45 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 45 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 21,
+    "status": {},
+    "distanceMeters": 37901,
+    "duration": "6233s",
+    "staticDuration": "6233s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "37.9 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 44 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 44 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 32,
+    "status": {},
+    "distanceMeters": 42101,
+    "duration": "7571s",
+    "staticDuration": "7571s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "42.1 กม."
+      },
+      "duration": {
+        "text": "2 ชั่วโมง 6 นาที"
+      },
+      "staticDuration": {
+        "text": "2 ชั่วโมง 6 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 14,
+    "status": {},
+    "distanceMeters": 25156,
+    "duration": "4572s",
+    "staticDuration": "4572s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "25.2 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 16 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 16 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 11,
+    "status": {},
+    "distanceMeters": 35074,
+    "duration": "6116s",
+    "staticDuration": "6116s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "35.1 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 42 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 42 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 25,
+    "status": {},
+    "distanceMeters": 30367,
+    "duration": "5295s",
+    "staticDuration": "5295s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "30.4 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 28 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 28 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 6,
+    "status": {},
+    "distanceMeters": 31398,
+    "duration": "5590s",
+    "staticDuration": "5590s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "31.4 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 33 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 33 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 26,
+    "status": {},
+    "distanceMeters": 33340,
+    "duration": "5940s",
+    "staticDuration": "5940s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "33.3 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 39 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 39 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 30,
+    "status": {},
+    "distanceMeters": 31773,
+    "duration": "5045s",
+    "staticDuration": "5045s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "31.8 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 24 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 24 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 22,
+    "status": {},
+    "distanceMeters": 37873,
+    "duration": "7206s",
+    "staticDuration": "7206s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "37.9 กม."
+      },
+      "duration": {
+        "text": "2 ชั่วโมง 0 นาที"
+      },
+      "staticDuration": {
+        "text": "2 ชั่วโมง 0 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 10,
+    "status": {},
+    "distanceMeters": 29112,
+    "duration": "4256s",
+    "staticDuration": "4256s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "29.1 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 11 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 11 นาที"
+      },
+      "transitFare": {}
+    }
+  },
+  {
+    "originIndex": 0,
+    "destinationIndex": 24,
+    "status": {},
+    "distanceMeters": 34659,
+    "duration": "4915s",
+    "staticDuration": "4915s",
+    "travelAdvisory": {
+      "transitFare": {}
+    },
+    "condition": "ROUTE_EXISTS",
+    "localizedValues": {
+      "distance": {
+        "text": "34.7 กม."
+      },
+      "duration": {
+        "text": "1 ชั่วโมง 22 นาที"
+      },
+      "staticDuration": {
+        "text": "1 ชั่วโมง 22 นาที"
+      },
+      "transitFare": {}
+    }
+  }
+]
