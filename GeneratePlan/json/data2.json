@@ -1,0 +1,127 @@
+{
+  "routes": [
+    {
+      "legs": [
+        {
+          "steps": [
+            {
+              "navigationInstruction": {
+                "instructions": "มุ่งไปทางทิศเหนือ ไปตาม ซอย เกกีงาม 1 เข้าสู่ ซอย ฉลองกรุง 1/ถ. ฉลองกรุง 1"
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "navigationInstruction": {
+                "instructions": "เลี้ยวขวา เข้าสู่ ซอย ฉลองกรุง 1/ถ. ฉลองกรุง 1"
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "navigationInstruction": {
+                "instructions": "เลี้ยว ซ้าย หลังสี่แยก สถานีตำรวจชุมชน สจล. (ทางด้านขวา)"
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "navigationInstruction": {
+                "instructions": "เลี้ยวซ้ายเล็กน้อย เพื่อวิ่งบน ถ. ฉลองกรุง"
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "navigationInstruction": {
+                "instructions": "รถประจำทาง ไปยัง มีนบุรี"
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "ตลาดเก่ามีนบุรี",
+                    "location": {
+                      "latLng": {
+                        "latitude": 13.8123708,
+                        "longitude": 100.7258801
+                      }
+                    }
+                  },
+                  "departureStop": {
+                    "name": "สจล. (สำนักงานอธิการบดี)",
+                    "location": {
+                      "latLng": {
+                        "latitude": 13.72927,
+                        "longitude": 100.77794
+                      }
+                    }
+                  }
+                },
+                "transitLine": {
+                  "name": "1-47 EV (143 EV) : นิคมอุตสาหกรรมนำไกร - มีนบุรี",
+                  "nameShort": "1-47 EV (143)",
+                  "vehicle": {
+                    "name": {
+                      "text": "รถประจำทาง"
+                    },
+                    "type": "BUS"
+                  }
+                }
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "navigationInstruction": {
+                "instructions": "รถประจำทาง ไปยัง อนุสาวรีย์ชัยสมรภูมิ"
+              },
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "ก่อนแยกลาดพร้าว 101",
+                    "location": {
+                      "latLng": {
+                        "latitude": 13.7746347,
+                        "longitude": 100.6297103
+                      }
+                    }
+                  },
+                  "departureStop": {
+                    "name": "ตลาดเก่ามีนบุรี",
+                    "location": {
+                      "latLng": {
+                        "latitude": 13.8123708,
+                        "longitude": 100.7258801
+                      }
+                    }
+                  }
+                },
+                "transitLine": {
+                  "name": "1-37 EV (27 EV) : มีนบุรี - อนุสาวรีย์ชัยสมรภูมิ",
+                  "nameShort": "1-37 EV (27)",
+                  "vehicle": {
+                    "name": {
+                      "text": "รถประจำทาง"
+                    },
+                    "type": "BUS"
+                  }
+                }
+              },
+              "travelMode": "TRANSIT"
+            },
+            {
+              "navigationInstruction": {
+                "instructions": "มุ่งไปทางทิศตะวันตกเฉียงเหนือ ไปตาม ถ. ลาดพร้าว เข้าสู่ ซอย ลาดพร้าว 128/2"
+              },
+              "travelMode": "WALK"
+            },
+            {
+              "navigationInstruction": {
+                "instructions": "เลี้ยวซ้าย เข้าสู่ ซอย ลาดพร้าว 128/2\nผ่านท็อปส์ เดลี่ สาขา ลาดพร้าวไดร์ฟอินน์ (ทางขวา)"
+              },
+              "travelMode": "WALK"
+            }
+          ]
+        }
+      ],
+      "localizedValues": {
+        "transitFare": {}
+      }
+    }
+  ]
+}
