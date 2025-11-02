@@ -1,35 +1,35 @@
 placeNo,placeName,category,startPrice,latitude,longtitude
-P0001,Kheanseexcafe',Workshop,590,,
-P0002,Cave Craft Art Studio & Cafe,Workshop,250,,
-P0003,After the Rain Coffee & Gallery,Workshop,200,,
-P0004,Thai Glam Studio,Workshop,500,,
-P0005,ThaiScent泰香 Aroma Space,Workshop,795,,
-P0006,SIAM FANTASY,Workshop,900,,
-P0007,Tingly Thai Cooking School,Workshop,1200,,
-P0008,GUIDA Drip Bar,Workshop,1290,,
-P0009,Sabieng Thai Cooking School,Workshop,1500,,
-P0010,Tierra Studio,Workshop,1500,13.77408005,100.6291412
-P0011,SEA LIFE Bangkok Ocean World,Museums,441,,
-P0012,The Erawan Museum,Museums,500,,
-P0013,Dream World,Amusement Park,600,,
-P0014,Pororo Aqua Park Bangkok,Amusement Park,350,,
-P0015,Wow Park,Amusement Park,250,,
-P0016,Siam Amazing Park,Amusement Park,1000,,
-P0017,PAÑPURI Wellness,Onsen & Spa,750,,
-P0018,Yunomori Onsen & Spa,Onsen & Spa,650,,
-P0019,Kaizen Private Onsen and Spa Bangkok,Onsen & Spa,2800,,
-P0020,Let's Relax Spa,Onsen & Spa,675,,
-P0021,Safari World,Zoo,750,,
-P0022,Wat Arun Ratchawararam Ratchawaramahawihan,Buddhist temple,200,,
-P0023,The Temple of the Emerald Buddha,Buddhist temple,500,,
-P0024,Wat Saket Ratchawora Mahawihan,Buddhist temple,100,,
-P0025,Wat Suthat Thep Wararam Ratchaworamahawihan,Buddhist temple,20,,
-P0026,Wat Benchamabophit Dusitwanaram,Buddhist temple,50,,
-P0027,Wonderful Pearl Cruise,Resturant,1000,,
-P0028,Dinner Cruise service,Resturant,899,,
-P0029,Chaophrayacruise,Resturant,1000,,
-P0030,Shushu Chilling Cafe,Cat Cafe,120,,
-P0031,Candy Cat Cafe,Cat Cafe,100,,
-P0032,Asok Pethouse Cat Cafe,Cat Cafe,150,,
-P0033,Catnip house Cat Cafe,Cat Cafe,200,,
-P0034,Chill Cat Cafe,Cat Cafe,250,,
+P0001,Kheanseexcafe',Workshop,590,13.854174840554775,100.6336741881346
+P0002,Cave Craft Art Studio & Cafe,Workshop,250,13.677829866154214,100.63243330374425
+P0003,After the Rain Coffee & Gallery,Workshop,200,13.783427451921007,100.26923688729298
+P0004,Thai Glam Studio,Workshop,500,13.744958704662759,100.48686906206105
+P0005,ThaiScent泰香 Aroma Space,Workshop,795,13.755316275204256,100.5084141388199
+P0006,SIAM FANTASY,Workshop,900,13.704064986674753,100.50377769292756
+P0007,Tingly Thai Cooking School,Workshop,1200,13.726433509371056,100.52266636956371
+P0008,GUIDA Drip Bar,Workshop,1290,13.736854481367367,100.57594390605635
+P0009,Sabieng Thai Cooking School,Workshop,1500,13.721682286734037,100.56426342018702
+P0010,Tierra Studio,Workshop,1500,13.77411653346078,100.62898032210316
+P0011,SEA LIFE Bangkok Ocean World,Museums,441,13.74603567377709,100.53527263793414
+P0012,The Erawan Museum,Museums,500,13.628724114628353,100.5890286951704
+P0013,Dream World,Amusement Park,600,13.988378929629222,100.6752167355746
+P0014,Pororo Aqua Park Bangkok,Amusement Park,350,13.669055486927776,100.634620833661
+P0015,Wow Park,Amusement Park,250,13.718741389545071,100.58523453557754
+P0016,Siam Amazing Park,Amusement Park,1000,13.806399998024231,100.69253236441806
+P0017,PAÑPURI Wellness,Onsen & Spa,750,13.746228584835174,100.54083637788273
+P0018,Yunomori Onsen & Spa,Onsen & Spa,650,13.719730293026334,100.56695641238353
+P0019,Kaizen Private Onsen and Spa Bangkok,Onsen & Spa,2800,13.727776846651185,100.57025173367329
+P0020,Let's Relax Spa,Onsen & Spa,675,13.725360083112177,100.579236299051
+P0021,Safari World,Zoo,750,13.865797178156194,100.7029831778702
+P0022,Wat Arun Ratchawararam Ratchawaramahawihan,Buddhist temple,200,13.744047578614977,100.4887068566908
+P0023,The Temple of the Emerald Buddha,Buddhist temple,500,13.751793706751782,100.49312452615067
+P0024,Wat Saket Ratchawora Mahawihan,Buddhist temple,100,13.754077334220987,100.50695896058957
+P0025,Wat Suthat Thep Wararam Ratchaworamahawihan,Buddhist temple,20,13.751190982676626,100.50135181470003
+P0026,Wat Benchamabophit Dusitwanaram,Buddhist temple,50,13.766689417842587,100.51511964716609
+P0027,Wonderful Pearl Cruise,Resturant,1000,13.730314642454394,100.51298127103699
+P0028,Dinner Cruise service,Resturant,899,13.72769277958797,100.51161077978911
+P0029,Chaophrayacruise,Resturant,1000,13.70557433201131,100.50262963366131
+P0030,Shushu Chilling Cafe,Cat Cafe,120,13.806455081036388,100.53619230672722
+P0031,Candy Cat Cafe,Cat Cafe,100,13.741673806560962,100.52271316630559
+P0032,Asok Pethouse Cat Cafe,Cat Cafe,150,13.739049063563824,100.56032954687196
+P0033,Catnip house Cat Cafe,Cat Cafe,200,13.833658990921515,100.5715871720644
+P0034,Chill Cat Cafe,Cat Cafe,250,13.876712043536921,100.26783777789116

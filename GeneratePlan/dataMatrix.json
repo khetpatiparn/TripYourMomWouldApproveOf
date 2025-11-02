@@ -184,10 +184,10 @@
     "condition": "ROUTE_EXISTS",
     "localizedValues": {
       "distance": {
-        "text": "27.8 กม."
+        "text": "27.8 กม." 
       },
       "duration": {
-        "text": "1 ชั่วโมง 46 นาที"
+        "text": "1 ชั่วโมง 46 นาที" 
       },
       "staticDuration": {
         "text": "1 ชั่วโมง 46 นาที"

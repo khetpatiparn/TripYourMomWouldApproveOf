@@ -4,7 +4,7 @@ async function getRoute(start_route, end_route) {
   // ------------------
   // Config
   // ------------------
-  const API_KEY = "";
+  const API_KEY = "AIzaSyBqRMSMiZkBVoWWnhIIQOc0K9HvKKAOGsE";
   const URL = "https://routes.googleapis.com/directions/v2:computeRoutes";
 
   /** response body
@@ -74,135 +74,135 @@ async function getRoute(start_route, end_route) {
   }
 }
 
-async function getRouteMatrix(origin, ...[destinations]) {
-  // ------------------
-  // Config
-  // ------------------
-  const API_KEY = "";
-  const URL =
-    "https://routes.googleapis.com/distanceMatrix/v2:computeRouteMatrix";
+// async function getRouteMatrix(origin, ...[destinations]) {
+//   // ------------------
+//   // Config
+//   // ------------------
+//   const API_KEY = "";
+//   const URL =
+//     "https://routes.googleapis.com/distanceMatrix/v2:computeRouteMatrix";
 
-  // response body
-  /**
-   * status
-   * condition
-   * distanceMeters
-   * staticDuratio
-   * travelAdvisory
-   *  - tollInfo
-   *  - transitFare
-   * localizedValues
-   *  - distance
-   *  - transitFare
-   * originIndex
-   * destinationIndex
-   */
-  const res_body = [
-    "status",
-    "condition",
-    "distanceMeters",
-    "duration",
-    "staticDuration",
-    "travelAdvisory.tollInfo",
-    "travelAdvisory.transitFare",
-    "localizedValues.distance",
-    "localizedValues.duration",
-    "localizedValues.staticDuration",
-    "localizedValues.transitFare",
-    "originIndex",
-    "destinationIndex",
-  ];
+//   // response body
+//   /**
+//    * status
+//    * condition
+//    * distanceMeters
+//    * staticDuratio
+//    * travelAdvisory
+//    *  - tollInfo
+//    *  - transitFare
+//    * localizedValues
+//    *  - distance
+//    *  - transitFare
+//    * originIndex
+//    * destinationIndex
+//    */
+//   const res_body = [
+//     "status",
+//     "condition",
+//     "distanceMeters",
+//     "duration",
+//     "staticDuration",
+//     "travelAdvisory.tollInfo",
+//     "travelAdvisory.transitFare",
+//     "localizedValues.distance",
+//     "localizedValues.duration",
+//     "localizedValues.staticDuration",
+//     "localizedValues.transitFare",
+//     "originIndex",
+//     "destinationIndex",
+//   ];
 
-  // request header
-  const req_header = {
-    "Content-Type": "application/json",
-    "X-Goog-FieldMask": res_body.join(","),
-    "X-Goog-Api-Key": API_KEY,
-  };
+//   // request header
+//   const req_header = {
+//     "Content-Type": "application/json",
+//     "X-Goog-FieldMask": res_body.join(","),
+//     "X-Goog-Api-Key": API_KEY,
+//   };
 
-  // request body
-  // req_body by lat, long input
-  // const req_body = {
-  //   origins: [
-  //     {
-  //       waypoint: {
-  //         location: {
-  //           latLng: {
-  //             latitude: startLat,
-  //             longitude: startLong,
-  //           },
-  //         },
-  //       },
-  //     },
-  //   ],
-  //   destinations: [
-  //     {
-  //       waypoint: {
-  //         location: {
-  //           latLng: {
-  //             latitude: number,
-  //             longitude: number,
-  //           },
-  //         },
-  //       },
-  //     },
-  //   ],
-  //   travelMode: "TRANSIT",
-  //   languageCode: "th-TH",
-  //   regionCode: "th",
-  //   units: "METRIC",
-  //   extraComputations: [TOLLS],
-  //   transitPreferences: {
-  //     allowedTravelModes: ["BUS", "SUBWAY", "LIGHT_RAIL", "TRAIN"],
-  //     routingPreference: "LESS_WALKING",
-  //   },
-  // };
-  // req_body by address
-  const req_body = {
-    origins: [
-      {
-        waypoint: {
-          address: origin,
-        },
-      },
-    ],
-    destinations: destinations.map((dest) => ({
-      waypoint: {
-        address: dest,
-      },
-    })),
-    travelMode: "TRANSIT",
-    languageCode: "th-TH",
-    regionCode: "th",
-    units: "METRIC",
-    extraComputations: ["TOLLS"],
-    transitPreferences: {
-      allowedTravelModes: ["BUS", "SUBWAY", "LIGHT_RAIL", "TRAIN"],
-      routingPreference: "LESS_WALKING",
-    },
-  };
+//   // request body
+//   // req_body by lat, long input
+//   // const req_body = {
+//   //   origins: [
+//   //     {
+//   //       waypoint: {
+//   //         location: {
+//   //           latLng: {
+//   //             latitude: startLat,
+//   //             longitude: startLong,
+//   //           },
+//   //         },
+//   //       },
+//   //     },
+//   //   ],
+//   //   destinations: [
+//   //     {
+//   //       waypoint: {
+//   //         location: {
+//   //           latLng: {
+//   //             latitude: number,
+//   //             longitude: number,
+//   //           },
+//   //         },
+//   //       },
+//   //     },
+//   //   ],
+//   //   travelMode: "TRANSIT",
+//   //   languageCode: "th-TH",
+//   //   regionCode: "th",
+//   //   units: "METRIC",
+//   //   extraComputations: [TOLLS],
+//   //   transitPreferences: {
+//   //     allowedTravelModes: ["BUS", "SUBWAY", "LIGHT_RAIL", "TRAIN"],
+//   //     routingPreference: "LESS_WALKING",
+//   //   },
+//   // };
+//   // req_body by address
+//   const req_body = {
+//     origins: [
+//       {
+//         waypoint: {
+//           address: origin,
+//         },
+//       },
+//     ],
+//     destinations: destinations.map((dest) => ({
+//       waypoint: {
+//         address: dest,
+//       },
+//     })),
+//     travelMode: "TRANSIT",
+//     languageCode: "th-TH",
+//     regionCode: "th",
+//     units: "METRIC",
+//     extraComputations: ["TOLLS"],
+//     transitPreferences: {
+//       allowedTravelModes: ["BUS", "SUBWAY", "LIGHT_RAIL", "TRAIN"],
+//       routingPreference: "LESS_WALKING",
+//     },
+//   };
 
-  // ------------------
-  // RUN API
-  // ------------------
-  try {
-    const response = await axios.post(URL, req_body, { headers: req_header });
-    return response.data;
-  } catch (error) {
-    console.log(
-      "error: ",
-      error.response ? error.response.data : error.message
-    );
-    throw error;
-  }
-}
+//   // ------------------
+//   // RUN API
+//   // ------------------
+//   try {
+//     const response = await axios.post(URL, req_body, { headers: req_header });
+//     return response.data;
+//   } catch (error) {
+//     console.log(
+//       "error: ",
+//       error.response ? error.response.data : error.message
+//     );
+//     throw error;
+//   }
+// }
 
 async function main() {
 
   console.log("กำลังค้นหาเส้นทาง...");
 
   const route = await getRoute("ซอยเกกีงาม1", "Tierra Studio");
-  const origin = "ซอยเกกีงาม1";
+  // const origin = "ซอยเกกีงาม1";
   const destinations = [
     "Kheanseexcafe'",
     "Cave Craft Art Studio & Cafe",
@@ -242,7 +242,7 @@ async function main() {
   const routeMatrix = await getRouteMatrix(origin, destinations);
 
   console.log(JSON.stringify(route, null, 2));
-  console.log(JSON.stringify(routeMatrix, null, 2));
+  // console.log(JSON.stringify(routeMatrix, null, 2));
 }
 
 main();
